@@ -1,0 +1,4 @@
+{
+  "test_failure.py::test_sqrt_failure": true,
+  "test_failure.py::test_square_failure": true
+}
